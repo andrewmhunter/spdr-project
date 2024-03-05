@@ -26,3 +26,6 @@ The SPDR project is made up of several smaller projects.
 - Monitor program
 - Snake
 - Calculator with order of operations
+
+## Pictures
+![picture of computer](spdr-0.jpg)
