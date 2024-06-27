@@ -8,7 +8,7 @@ The SPDR project is made up of several smaller projects.
 - [Previous assembler](https://github.com/Sockyman/spas)
 - [Compiler](https://github.com/Sockyman/bspdr)
 - [Instruction Set Library](https://github.com/Sockyman/spdr-firmware)
-<!-- - [Software](https://github.com/Sockyman/spdr-software) -->
+- [Software (Assembly)](https://github.com/Sockyman/spdr-software-asm)
 
 ## Features
 - 64KiB of addressable memory (32K RAM, 32K ROM)
@@ -22,10 +22,9 @@ The SPDR project is made up of several smaller projects.
 - [HD44780](https://en.wikipedia.org/wiki/Hitachi_HD44780_LCD_controller) lcd interface
 
 ## Software
-(links will be added)
-- Monitor program
+- [Monitor program](https://github.com/Sockyman/spdr-software-asm/blob/main/kernel.spdr)
+- [Calculator](https://github.com/Sockyman/spdr-software-asm/blob/main/calculator.spdr)
 - Snake
-- Calculator with order of operations
 
 ## Pictures
 ![picture of computer](spdr-0.jpg)
