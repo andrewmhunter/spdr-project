@@ -4,12 +4,12 @@ It based on [Ben Eaters 8-bit CPU](https://eater.net/8bit) but greatly extended.
 
 ## Repos
 The SPDR project is made up of several smaller projects.
-- [Assembler](https://github.com/Sockyman/aspdr)
-- [Previous assembler](https://github.com/Sockyman/spas)
-- [Compiler](https://github.com/Sockyman/bspdr)
-- [Instruction Set Library](https://github.com/Sockyman/spdr-firmware)
-- [Software (Assembly)](https://github.com/Sockyman/spdr-software-asm)
-- [Software (B like language)](https://github.com/Sockyman/spdr-software-bspdr)
+- [Assembler](https://github.com/andrewmhunter/aspdr)
+- [Previous assembler](https://github.com/andrewmhunter/spas)
+- [Compiler](https://github.com/andrewmhunter/bspdr)
+- [Instruction Set Library](https://github.com/andrewmhunter/spdr-firmware)
+- [Software (Assembly)](https://github.com/andrewmhunter/spdr-software-asm)
+- [Software (B like language)](https://github.com/andrewmhunter/spdr-software-bspdr)
 
 ## Features
 - 64KiB of addressable memory (32K RAM, 32K ROM)
@@ -23,9 +23,9 @@ The SPDR project is made up of several smaller projects.
 - [HD44780](https://en.wikipedia.org/wiki/Hitachi_HD44780_LCD_controller) lcd interface
 
 ## Interesting Software
-- [Monitor program](https://github.com/Sockyman/spdr-software-asm/blob/main/kernel.spdr)
-- [Calculator](https://github.com/Sockyman/spdr-software-asm/blob/main/calculator.spdr)
-- [Snake](https://github.com/Sockyman/spdr-software-bspdr/blob/main/snake.bspdr)
+- [Monitor program](https://github.com/andrewmhunter/spdr-software-asm/blob/main/kernel.spdr)
+- [Calculator](https://github.com/andrewmhunter/spdr-software-asm/blob/main/calculator.spdr)
+- [Snake](https://github.com/andrewmhunter/spdr-software-bspdr/blob/main/snake.bspdr)
 
 ## Pictures
 ![picture of computer](spdr-0.jpg)
