@@ -6,7 +6,8 @@ It based on [Ben Eaters 8-bit CPU](https://eater.net/8bit) but greatly extended.
 The SPDR project is made up of several smaller projects.
 - [Assembler](https://github.com/andrewmhunter/aspdr)
 - [Previous assembler](https://github.com/andrewmhunter/spas)
-- [Compiler](https://github.com/andrewmhunter/bspdr)
+- [B Compiler](https://github.com/andrewmhunter/bspdr)
+- [C Compiler (in development)](https://github.com/andrewmhunter/acc)
 - [Instruction Set Library](https://github.com/andrewmhunter/spdr-firmware)
 - [Software (Assembly)](https://github.com/andrewmhunter/spdr-software-asm)
 - [Software (B like language)](https://github.com/andrewmhunter/spdr-software-bspdr)
